@@ -60,5 +60,5 @@ Fix-Oxygen-OS-Oneplus-Account 是一个用于 修复 OxygenOS 16 账户中心无
 如果这个模块对你有帮助，欢迎给仓库点一个 Star，你的支持是我持续更新的动力。
 
 ---
-
+未经允许不得二创
 
