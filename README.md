@@ -44,23 +44,6 @@ Fix-Oxygen-OS-Oneplus-Account 是一个用于 修复 OxygenOS 16 账户中心无
 
 ---
 
-🛠️ 使用说明
-
-由于网络环境等原因，本模块 不提供预构建版本。  
-如需使用，请自行 clone 仓库并构建模块。
-
----
-
-📚 源码与构建
-
-`bash
-git clone https://github.com/DuDuHuaHua/Fix-Oxygen-OS-Oneplus-Account
-cd Fix-Oxygen-OS-Oneplus-Account
-
-按需修改后自行打包 Magisk 模块
-`
-
----
 
 📺 作者与联系
 
